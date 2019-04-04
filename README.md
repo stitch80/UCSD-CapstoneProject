@@ -1,1 +1,1 @@
-# USCD-CapstoneProject
+# UCSD-CapstoneProject
